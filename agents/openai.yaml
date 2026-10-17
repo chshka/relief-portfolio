@@ -1,0 +1,4 @@
+interface:
+  display_name: "石膏浮雕个人网站"
+  short_description: "用个人资料与自备素材创建单背景或多浮雕长廊，包含动态隆起、文字扰动与加载页"
+  default_prompt: "使用 $relief-portfolio，根据我的资料与素材分步骤制作单背景或多浮雕长廊网站，并验证电脑和手机效果。"

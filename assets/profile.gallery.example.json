@@ -1,0 +1,35 @@
+{
+  "name": "你的姓名",
+  "nickname": "你的昵称",
+  "identity": "你的身份标签",
+  "headline": "你的首页标题",
+  "tagline": "你的一句话介绍",
+  "about": "你的真实经历与方向",
+  "tags": [
+    "关键词一",
+    "关键词二"
+  ],
+  "closing": "欢迎交流。",
+  "email": "",
+  "projects": [],
+  "background": "materials/background.png",
+  "height": "materials/height.png",
+  "emblem": "materials/emblem.png",
+  "model": "",
+  "panels": [
+    {
+      "id": "first",
+      "aspect": 0.57,
+      "background": "materials/01/background.png",
+      "height": "materials/01/height.png",
+      "model": "materials/01/relief.glb"
+    },
+    {
+      "id": "second",
+      "aspect": 0.57,
+      "background": "materials/02/background.png",
+      "height": "materials/02/height.png",
+      "model": ""
+    }
+  ]
+}
